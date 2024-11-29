@@ -1,0 +1,429 @@
+{
+    "highlevel": {
+        "danceability": {
+            "all": {
+                "danceable": 0.983286082745,
+                "not_danceable": 0.0167139116675
+            },
+            "probability": 0.983286082745,
+            "value": "danceable",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "gender": {
+            "all": {
+                "female": 0.877355158329,
+                "male": 0.12264483422
+            },
+            "probability": 0.877355158329,
+            "value": "female",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "genre_dortmund": {
+            "all": {
+                "alternative": 0.00464358460158,
+                "blues": 0.0013795098057,
+                "electronic": 0.984426438808,
+                "folkcountry": 0.00200486066751,
+                "funksoulrnb": 0.000211868304177,
+                "jazz": 0.00339081720449,
+                "pop": 0.000279899832094,
+                "raphiphop": 0.00279803806916,
+                "rock": 0.000865001697093
+            },
+            "probability": 0.984426438808,
+            "value": "electronic",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "genre_electronic": {
+            "all": {
+                "ambient": 0.491399943829,
+                "dnb": 0.0503370985389,
+                "house": 0.292034208775,
+                "techno": 0.0423060357571,
+                "trance": 0.123922720551
+            },
+            "probability": 0.491399943829,
+            "value": "ambient",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "genre_rosamerica": {
+            "all": {
+                "cla": 0.00153603486251,
+                "dan": 0.045636061579,
+                "hip": 0.834776103497,
+                "jaz": 0.0114108296111,
+                "pop": 0.026879766956,
+                "rhy": 0.0756504386663,
+                "roc": 0.00108373130206,
+                "spe": 0.00302704819478
+            },
+            "probability": 0.834776103497,
+            "value": "hip",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "genre_tzanetakis": {
+            "all": {
+                "blu": 0.0620671063662,
+                "cla": 0.034474901855,
+                "cou": 0.103433981538,
+                "dis": 0.0620971247554,
+                "hip": 0.15527240932,
+                "jaz": 0.310666948557,
+                "met": 0.044346679002,
+                "pop": 0.0620793737471,
+                "reg": 0.0620816536248,
+                "roc": 0.103479810059
+            },
+            "probability": 0.310666948557,
+            "value": "jaz",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "ismir04_rhythm": {
+            "all": {
+                "ChaChaCha": 0.100573405623,
+                "Jive": 0.0546077601612,
+                "Quickstep": 0.014975592494,
+                "Rumba-American": 0.028387915343,
+                "Rumba-International": 0.0419964157045,
+                "Rumba-Misc": 0.0160721950233,
+                "Samba": 0.0708189159632,
+                "Tango": 0.621774375439,
+                "VienneseWaltz": 0.0418181866407,
+                "Waltz": 0.00897524319589
+            },
+            "probability": 0.621774375439,
+            "value": "Tango",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_acoustic": {
+            "all": {
+                "acoustic": 0.0659224241972,
+                "not_acoustic": 0.934077560902
+            },
+            "probability": 0.934077560902,
+            "value": "not_acoustic",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_aggressive": {
+            "all": {
+                "aggressive": 0.042316775769,
+                "not_aggressive": 0.957683205605
+            },
+            "probability": 0.957683205605,
+            "value": "not_aggressive",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_electronic": {
+            "all": {
+                "electronic": 0.870337426662,
+                "not_electronic": 0.12966260314
+            },
+            "probability": 0.870337426662,
+            "value": "electronic",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_happy": {
+            "all": {
+                "happy": 0.11188172549,
+                "not_happy": 0.888118267059
+            },
+            "probability": 0.888118267059,
+            "value": "not_happy",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_party": {
+            "all": {
+                "not_party": 0.348513692617,
+                "party": 0.65148627758
+            },
+            "probability": 0.65148627758,
+            "value": "party",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_relaxed": {
+            "all": {
+                "not_relaxed": 0.0975747480989,
+                "relaxed": 0.902425229549
+            },
+            "probability": 0.902425229549,
+            "value": "relaxed",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "mood_sad": {
+            "all": {
+                "not_sad": 0.28953152895,
+                "sad": 0.71046847105
+            },
+            "probability": 0.71046847105,
+            "value": "sad",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "moods_mirex": {
+            "all": {
+                "Cluster1": 0.104204304516,
+                "Cluster2": 0.128252446651,
+                "Cluster3": 0.163333415985,
+                "Cluster4": 0.0775102078915,
+                "Cluster5": 0.526699602604
+            },
+            "probability": 0.526699602604,
+            "value": "Cluster5",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "timbre": {
+            "all": {
+                "bright": 0.0903504937887,
+                "dark": 0.90964949131
+            },
+            "probability": 0.90964949131,
+            "value": "dark",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "tonal_atonal": {
+            "all": {
+                "atonal": 0.979975998402,
+                "tonal": 0.0200240220875
+            },
+            "probability": 0.979975998402,
+            "value": "atonal",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        },
+        "voice_instrumental": {
+            "all": {
+                "instrumental": 0.00274379365146,
+                "voice": 0.997256219387
+            },
+            "probability": 0.997256219387,
+            "value": "voice",
+            "version": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            }
+        }
+    },
+    "metadata": {
+        "audio_properties": {
+            "analysis_sample_rate": 44100,
+            "bit_rate": 0,
+            "codec": "flac",
+            "downmix": "mix",
+            "equal_loudness": 0,
+            "length": 243.716659546,
+            "lossless": 1,
+            "md5_encoded": "1a9b29d7f5f35a06e6aa3cef9dc5c1c1",
+            "replay_gain": -13.9890441895,
+            "sample_rate": 44100
+        },
+        "tags": {
+            "acoustid_fingerprint": [
+                "AQADtEmSKYoyqVBaovFx3cjxozmN2kFj8aiF5_iFXLxxJfuCahMbiNpwKUXwlsSFP6iTE99QufA_wS_RHz-Oe2iO8EWCJxfK9fArHF0THTgepmie_SiPvoXz4bB2vPjxoycR6EQePniXEb_QHB0j4c4RDyV1iM_RI35yfMiz_Wh-iMtqvAmRKxf8Hr_woGn64UcILZ4V7FOM3Ddy_bhA-Q9-bD-u4FoQfUuEfahSPUGTH3nSQN824cePa8Yk39AiDn_xC5fe4hSa9-gHaT6uhEQj7qj0g0-U7Ggq6eizTMiN5wtuK0HFMBScTDl6Bj-eJ0J-B1pehFaOV_h1XELaHcnZBZdyNNkedHka4MclHtyRcEHU_DGuHSd8BU98xCKuH1rqGL0sHPpHnORhPseJL7kQfirRPKGBJ8enFxP5C40bnESiEnn44mFa4sQdOD_GOHSMDymX6NiH3OAfPMnxo0qyozl-PDlyH9qD5syQJzkuOTPR6QmYRHxWnMd3PDmaT0iULhHytcFpC0-UUA6oC3eO_8JzBW6mGMmVW8izw7uD40fzkQFzjEomPMoU7LgP_sWPKUWyJkceool7oUfzWyh7XMlx5slwTvCXYj9YHaaq4xJD_NkxJSkd9EfyI7Sk4-JRi5mCPgqaG994HJEMLQ9yIfzhKoevg-Gh7o7wVYfW8WASJw-eNshjUJtm_MaHi0h_PCcu_dDaQw6XHL-MN4mg8_h2-BFK6cWL8D3cHYcrHjme9IGmH8879DmOH19wTiinB4-ETkeY5xXOC9fh9dhv_Hh-OM6w7sKPkGqMjcJx5TvEska_YzqRbglx3LiR4xwPX4L-wfdQ_tDRB3YuHA2X49kFeT_aHU2c_MhrlIl4NE5m_CJ-9EGThl3wI09_NJMtfIKcaRdu7ngkuJeI9kfIaT18_C1-XMWR5_ihfhOeX3iOIyfy45PQ68FVVJuOMM-PH2WiD42T4w2O6gijZvhxXtCyW7iOd9Vx5PngXS0ewWNmhFZxHU1f9Dt6_BDzB7Ut5FJxHf9RDR4LVwHzfOA_ITz8bEd1nMezB3kUWUKPEylu6Idr-KvQB0fzoF07yD2aB30mQ4-g5Yee48dDo97RQ3zxoeeD-EmJh8eT4-3xF-GP5tmh71Aa48ou9ENPXDx6HtYUoj-0Ez-04-hENEXQZjzSH9-he0dFHfsRGs0WXAifw8evD_LVBZV65MmF9_hUNFVQUSwurNmOcT76IVeN4xzhQ8aeF4emKVCkQ_xG1NPREy76HTJD9MOpF8_h6Qifot7h4yfe5QhlPThjPDEFPYhrNE_QlcR__McVHc2zI5cO58RFQUuHuxt-4xN6mNuPrgx-4V2Pxsfh6sIPP0RPaKJ0nEefijiOHs2jotOPKamMI8-PJo90ofvxvGiiaVRR-ziDK0OY24WiH0elTIdFKRV-3vixwzN65yh7Fn7pIXzQk4KPh0F-bP5RWYf-TRH64TlwBd9wOeiFTlHhJzdC-SyeT2g2HfWNHzvCHNqP43uEsJF0pNdRHWpS9GSEoz-avugxeYb4G48Mr8QtHWKcUYJ2_HiCPqTgHT4jtEoUD-rRKdzh_ER9V9h1hFk91N9w7Dps7fhJxPKP9oKfo6OPO0e7-jCnCcVLB1p8hEeP93hG2DmM87i2dcGb4zzY6rhxYuKRPA_y4w2eKcOUo8eH68GlHnqUDM_wgzr-4RdOvEc81dB2wc9xrfAvPIQ_VM7RPKhO9Agjc-jgH6eIhhRCq2g05UHeXmg1-DkqHz-aTUdFTsOJMGqOZKJ4XEf9wEcT9_jnIJ2UGHqSGl8DoY_KoNHE44qO-xk04yF-Qrws9LieI_yJi8eRD6-gPR_y-UXvo-k-3EF9mJKDUlWDF8n0E2GWiBf6C57qBD2aOBkHZtERMjqYVKSgN_jBPAoZWEtQKTnu4wWfo6mO9-hlQT8e_ESjHr2CRtqhPfmQ0z7aoXly4bhyNGNy1FXxIll-hJLE49GFpg96NLkUo_ODMEsWQ6MSyXiDg1kzEmLEB2Vy4ntw9whz5viOLNdx3UJ_XAt8wcYLvUJfjcj3Ff12NN2Hb0GPJspy_MWP8Pqh5UT4wzmePWiGjwgv4egHrYRP9D0666AyyTx--Id-4TmCiwZzos-J9BJO5USz_dAdp0JOo53QPJaCH-WC5snxF3uEZNF0hPyDK_ow-cFRXUe4PWi2JIeeUCLeHIeWrwu66Hh0xLeCnhk-5DqMSm8k6Eef48ip4seJ_hGuaBf6owkVM_hRRgma6viKOzqS5Ue4yMeTfET14D_6Ht2WL0GYRcFlMca_6dBOiJ1ylLvxhA_x4D1RK4fFQztupQLO5OgPXzgVNOSRF9f2omuO5s-CY2KUoKmOr3ijI1mqI-TaCU8-TA-68viTI_Q-NIuiQxclKcdfvNAi70GlhMf3DEf44kh__EJ5UdCe47nwHTlVXPiNLr2xStGOKY-F_sF4lJGG5seL6Eey5OiH_2ii6CF-tOMxHzn1IXlY3JkXPF8iNMrRT5mO2MenC2KO_Bt-jIm2bBPCOIF2hKkI3kczPsHVFJesY8zTo4kfow8084GdLIffozYnNB8AS5QQATiAgTCCAMBAFQgBJJhSjg0hHACKQaAAAFBgh5WiCAiCBDHMIkEAUUQgIAQiwBDgmGPGISEQAIIQggAzSAlsIBGAAoaVAEYCIhAADBlghDBGKKIIEKAQJgxgUgnDICIICGCQAgAgIAhhTAijiCIIOESEAMABQAQTRlFkBENQAoUsUBIibJAQBhgGGHGAGAYNAQBQQQAgjBBhBahCGGEpIcgRLIIxwAAnECDGGECAQUY4QpSiUDCFJEMAGAoEI4QSBDQSSDHggACIAQAQQUoJRhhiTBghiEDKAQCMgIIAYBARACklAAZCJAGIEC5RChhQAhGAhrFECSAUARQhgJRAWBjAAFAGACEAApYhyhwjRhDBkCLGIGCQAQZYBIhlDgjlBGNEOGSIUQ4QJzwQRjgogAMCAAEMSUYYopwWTihnDACaEgUJBIQAKAQQgCgAABICMA0MIAQBIQQjyjElACEaKIIQEoQAAoATRgHrDiDGAE2EBMoQAg1QzBBACEBCGEI4AEQSBwwBwggkCCGKEAAEEcoJy4AywinCQBBAFACAIcAAYBEATg4ABFEQAACEQIoBYAAQTCkhJAAGGEAAMwgJioghggiBgAUCKAqUJkQBAagAAAAEwBCCEWCYAQAAQawVjDHJBBAAOECMR8QoAMCRUBAAQFIIAOgAQQI4ARADRgEAlDAAAaOMMBIRwxQFQgAoBEBEMCSBBkIIJYhSVgACgFGWCAAIQA4yCY1QhFhCFXAGEOWQQQYoAACxRhEhECFICYCsVEoJRABBQjggmBBUSkIMQMQKgwDDABBggFTCMCqAEEpAIyQQCiGhCAAIAAGAEYAgYJQQQChGgAPAAikcQUI45YQUAhkgkSPGIEEQQBAQwAQREhAnACACCEkYAaARwTgRQEiqCDhCAWARFIQRYgUgQigAAJLCEASGAwIqwQBDAAFHCEJAIISARUwoISSCQlAFDCBEAIEQEkIaIIJAhiACjDEAAAk"
+            ],
+            "acoustid_id": [
+                "464bb368-b97c-4317-a5b4-db2bb811e332"
+            ],
+            "album": [
+                "Un verano sin t\u00ed"
+            ],
+            "artist": [
+                "Bad Bunny"
+            ],
+            "date": [
+                "2022"
+            ],
+            "file_name": "H:\\Musica_CD\\Bad Bunny\\Un verano sin ti {2022 Deezer 316164367}\\04 - Titi me pregunto.flac",
+            "genre": [
+                "Hip-Hop"
+            ],
+            "isrc": [
+                "QM6MZ2214878"
+            ],
+            "mood": [
+                "Dramatic",
+                "Intense",
+                "Sexy"
+            ],
+            "musicbrainz_albumartistid": [
+                "89aa5ecb-59ad-46f5-b3eb-2d424e941f19"
+            ],
+            "musicbrainz_albumid": [
+                "aded3f90-b758-451a-aad7-711d5985b05f"
+            ],
+            "musicbrainz_artistid": [
+                "89aa5ecb-59ad-46f5-b3eb-2d424e941f19"
+            ],
+            "musicbrainz_recordingid": [
+                "f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83"
+            ],
+            "musicbrainz_releasegroupid": [
+                "e992b449-141b-4aea-b07b-9b2a478a8570"
+            ],
+            "musicbrainz_releasetrackid": [
+                "d1429ec8-e971-4e6a-8d9a-4f95ee8da8b9"
+            ],
+            "title": [
+                "Tit\u00ed me pregunt\u00f3"
+            ],
+            "tracknumber": [
+                "04"
+            ]
+        },
+        "version": {
+            "highlevel": {
+                "essentia": "2.1-beta4",
+                "essentia_build_sha": "b0b9016bb43cc2dafcda53132c1610db4853c6a1",
+                "essentia_git_sha": "v2.1_beta4",
+                "extractor": "music 1.0",
+                "gaia": "2.4.5",
+                "gaia_git_sha": "v2.4.4-44-g95f4851",
+                "models_essentia_git_sha": "v2.1_beta1"
+            },
+            "lowlevel": {
+                "essentia": "2.1-beta2",
+                "essentia_build_sha": "2d9f1f26377add8aeb1075a9c2973f962c4f09fd",
+                "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+                "extractor": "music 1.0"
+            }
+        }
+    }
+}
