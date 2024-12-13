@@ -1,6 +1,6 @@
 # Spotify_Audio_Analysis
 
-A visual analytics system that enables users to understand what really makes a song popular through audio analysis. It supports high-level and low-level audio feature analysis. This repo mainly consists of Python scripts used to fetch and create our dataset, as there is no readily available dataset. Billboard Year-End Charts Top 100 songs from 2010 to 2023 are used to determine the most popular songs on a year-on-year basis. 
+A visual analytics system that enables users to understand what really makes a song popular through audio analysis. It supports high-level and low-level audio feature analysis. This repo mainly consists of Python scripts used to fetch and create our dataset, as there is no readily available dataset. Billboard Year-End Charts Top 100 songs from 2010 to 2023 are used to determine the most popular songs on a year-on-year basis. This repo mainly consists of scripts that were used for dataset creation. Another [repo](https://github.com/AayushG159/spotify-aa-ui) has the related visual analytics system that uses this data.
 
 ## Scripts
 - `billboard_charts.py` - Scrapes Billboard charts year-on-year from Wikipedia
